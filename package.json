@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@atomist/automation-client": "https://r.atomist.com/SkDUQkI0Tz",
-    "@atomist/sdm": "https://atomist.jfrog.io/atomist/api/npm/npm-dev-local/@atomist/sdm/-/@atomist/sdm-0.0.1-no-env-vars.20180507233656.tgz",
+    "@atomist/sdm": "0.3.2-nortissej.remove-status-field.20180706202026",
     "@atomist/slack-messages": "^0.12.1",
     "axios": "^0.18.0",
     "lodash": "^4.17.10",
